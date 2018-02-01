@@ -2,6 +2,8 @@
 #' output: github_document
 #' ---
 
+# line added from github
+
 ## how jenny might do this in a first exploration
 ## purposely leaving a few things to change later!
 
